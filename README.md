@@ -1,2 +1,2 @@
 # Curriculo
-https://Otto-Loterio.github.io/Curriculo
+Otto-Loterio.github.io/Curriculo
